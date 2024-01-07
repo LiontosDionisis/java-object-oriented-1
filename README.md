@@ -1,1 +1,1 @@
-In this repo i'll be uploading Object Oriented Projects for practising java
+In this repo i'll be practising Object Oriented programming using Java as taught by AUEB Coding Factory
